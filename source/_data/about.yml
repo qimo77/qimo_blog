@@ -1,0 +1,108 @@
+- class_name: 关于页
+  subtitle: 保持热爱,翻越山海✨
+  avatarImg: https://youpai.sanwent.icu/blog/person/head.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 智能家居小能手
+      - 🔨 设计开发一条龙
+    right:
+      - 专修交互与设计 🤝
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+      - 壮汉人狠话不多 💢
+  name: 李熠麒
+  description: 是一名 后端工程师、我的世界游戏模组开发者、独立开发者、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    img: https://youpai.sanwent.icu/blog/person/like/edu.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，杭州市
+    background: https://youpai.sanwent.icu/blog/person/location.jpg
+    backgroundDark: https://youpai.sanwent.icu/blog/person/location.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2001
+    selfInfoTips2: 泉州信息工程学院
+    selfInfoContent2: 软件工程
+    selfInfoTips3: 现在职业
+    selfInfoContent3: java后端开发👨‍🎓
+  personalities:
+    author_name: 逻辑学家
+    personality_type: INTP-A
+    photo_url: https://youpai.sanwent.icu/blog/person/photo/myphoto.jpg
+    personality_img: https://youpai.sanwent.icu/blog/person/INTP_A.png
+    name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 保持热爱,
+    maxim_bottom: 翻越山海。
+  buff:
+    buff_tips: 特长
+    buff_top: 沉着冷静
+    buff_bottom: 驱动力MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 英雄联盟
+    game_uid: "艾欧尼亚: 20200627"
+    game_bg: https://youpai.sanwent.icu/blog/person/lol.jfif
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 干物妹！小埋
+        href: https://www.bilibili.com/bangumi/play/ss2580
+        cover: https://youpai.sanwent.icu/blog/person/xiaomai.webp
+      - name: 家庭教师HITMAN REBORN
+        href: https://www.bilibili.com/bangumi/play/ss1376
+        cover: https://youpai.sanwent.icu/blog/person/reborn.webp
+      - name: 我独自升级
+        href: https://www.bilibili.com/bangumi/play/ss47211
+        cover: https://youpai.sanwent.icu/blog/person/level_up.webp
+      - name: 奇幻世界舅舅
+        href: https://www.bilibili.com/bangumi/play/ss42105
+        cover: https://youpai.sanwent.icu/blog/person/jiujiu.webp
+      - name: 博人传 火影忍者新时代
+        href: https://www.bilibili.com/bangumi/play/ss5978
+        cover: https://youpai.sanwent.icu/blog/person/boruto.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技、代码demo
+    like_bg: https://youpai.sanwent.icu/blog/person/like/code.webp
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 纯音乐、流行说唱、动感音乐
+    music_bg: https://p2.music.126.net/u3Tw-7uqNY2KzbUdUt9Ing==/109951167773962358.jpg
+    music_link: /music
+  reward_list:
+    - name: 阿丁
+      amount: 9.9
+      datatime: 2024-03-03
