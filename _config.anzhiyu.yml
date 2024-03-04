@@ -135,7 +135,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: http://youpai.sanwent.icu/blog/person/%E5%A4%B4%E5%83%8F.jpg
+  img: https://qimo.sanwent.icu/blog%2Fhead.jpg
   effect: false
 
 # Disable all banner image
@@ -772,7 +772,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: http://youpai.sanwent.icu/blog/person/%E5%A4%B4%E5%83%8F.jpg # 自定加载动画义头像
+  avatar: https://qimo.sanwent.icu/blog%2Fhead.jpg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1031,9 +1031,9 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱。
-  siteText: sanwent.icu
+  title: 保持热爱
+  subTitle: 翻越山海
+  siteText: 七某的博客
   category:
     - name: 后端
       path: /categories/后端开发/
@@ -1056,10 +1056,10 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    tips: 前往我喜欢的游戏
+    title: GO TO MINECRAFT
+    image: https://qimo.sanwent.icu/blog%2Findex%2Fminecraft.webp
+    link: https://www.minecraft.net/zh-hans
 
 # 朋友圈配置
 friends_vue:
