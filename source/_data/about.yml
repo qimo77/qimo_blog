@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 保持热爱,翻越山海✨
-  avatarImg: https://youpai.sanwent.icu/blog/person/head.jpg
+  avatarImg: https://qimo.sanwent.icu/blog%2Fhead.jpg
   avatarSkills:
     left:
       - 🤖️ 数码科技爱好者
@@ -37,7 +37,7 @@
         color: "#357ef5"
       - desc: EDU,软件工程专业
         color: "#357ef5"
-    img: https://youpai.sanwent.icu/blog/person/like/edu.png
+    img: https://qimo.sanwent.icu/blog/about/edu.png
   statistic:
     link: /archives
     text: 文章隧道
@@ -45,8 +45,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，杭州市
-    background: https://youpai.sanwent.icu/blog/person/location.jpg
-    backgroundDark: https://youpai.sanwent.icu/blog/person/location.jpg
+    background: https://qimo.sanwent.icu/blog%2Fabout%2Flocation.jpg
+    backgroundDark: https://qimo.sanwent.icu/blog%2Fabout%2Flocation.jpg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2001
@@ -57,8 +57,8 @@
   personalities:
     author_name: 逻辑学家
     personality_type: INTP-A
-    photo_url: https://youpai.sanwent.icu/blog/person/photo/myphoto.jpg
-    personality_img: https://youpai.sanwent.icu/blog/person/INTP_A.png
+    photo_url: https://qimo.sanwent.icu/blog%2Fabout%2Fmyphoto.jpg
+    personality_img: https://qimo.sanwent.icu/blog%2Fabout%2FINTP_A.png
     name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 座右铭
@@ -72,30 +72,30 @@
     game_tips: 爱好游戏
     game_title: 英雄联盟
     game_uid: "艾欧尼亚: 20200627"
-    game_bg: https://youpai.sanwent.icu/blog/person/lol.jfif
+    game_bg: https://qimo.sanwent.icu/blog%2Fabout%2Flol.jfif
   comic:
     comic_tips: 爱好番剧
     comic_title: 追番
     comic_list:
       - name: 干物妹！小埋
         href: https://www.bilibili.com/bangumi/play/ss2580
-        cover: https://youpai.sanwent.icu/blog/person/xiaomai.webp
+        cover: https://qimo.sanwent.icu/blog%2Fabout%2Fxiaomai.webp
       - name: 家庭教师HITMAN REBORN
         href: https://www.bilibili.com/bangumi/play/ss1376
-        cover: https://youpai.sanwent.icu/blog/person/reborn.webp
+        cover: https://qimo.sanwent.icu/blog%2Fabout%2Freborn.webp
       - name: 我独自升级
         href: https://www.bilibili.com/bangumi/play/ss47211
-        cover: https://youpai.sanwent.icu/blog/person/level_up.webp
+        cover: https://qimo.sanwent.icu/blog%2Fabout%2Flevel_up.webp
       - name: 奇幻世界舅舅
         href: https://www.bilibili.com/bangumi/play/ss42105
-        cover: https://youpai.sanwent.icu/blog/person/jiujiu.webp
+        cover: https://qimo.sanwent.icu/blog%2Fabout%2Fjiujiu.webp
       - name: 博人传 火影忍者新时代
         href: https://www.bilibili.com/bangumi/play/ss5978
-        cover: https://youpai.sanwent.icu/blog/person/boruto.webp
+        cover: https://qimo.sanwent.icu/blog%2Fabout%2Fboruto.webp
   like:
     like_tips: 关注偏好
     like_title: 数码科技、代码demo
-    like_bg: https://youpai.sanwent.icu/blog/person/like/code.webp
+    like_bg: https://qimo.sanwent.icu/blog%2Fabout%2Fcode.webp
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好
