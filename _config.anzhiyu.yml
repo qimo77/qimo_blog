@@ -4,21 +4,22 @@ menu:
      分类: /categories/ || anzhiyu-icon-shapes
      标签: /tags/ || anzhiyu-icon-tags
 
-   友链:
-     友人帐: /link/ || anzhiyu-icon-link
-     朋友圈: /fcircle/ || anzhiyu-icon-artstation
-     留言板: /comments/ || anzhiyu-icon-envelope
+#   友链:
+#     友人帐: /link/ || anzhiyu-icon-link
+#     朋友圈: /fcircle/ || anzhiyu-icon-artstation
+#     留言板: /comments/ || anzhiyu-icon-envelope
 
    我的:
      追番页: /bangumis/ || anzhiyu-icon-bilibili
+     追剧页: /cinemas/ || anzhiyu-icon-tiktok
      相册集: /album/ || anzhiyu-icon-images
-     小空调: /air-conditioner/ || anzhiyu-icon-fan
+#     小空调: /air-conditioner/ || anzhiyu-icon-fan
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
      闲言碎语: /essay/ || anzhiyu-icon-lightbulb
      随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
-     我的装备: /equipment/ || anzhiyu-icon-dice-d20
+#     我的装备: /equipment/ || anzhiyu-icon-dice-d20
 
 # nav相关配置
 nav:
@@ -220,7 +221,7 @@ anchor: false
 # toc (目录)
 toc:
   post: true
-  page: false
+  page: true
   number: true
   expand: false
   style_simple: false # for post
@@ -239,7 +240,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
     - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
       link:
@@ -440,72 +441,52 @@ footer:
     enable: false
     centerImg:
     left:
-      # - title: email
-      #   link: mailto:anzhiyu-c@qq.com
-      #   icon: anzhiyu-icon-envelope
-      # - title: 微博
-      #   link: https://weibo.com/u/6378063631
-      #   icon: anzhiyu-icon-weibo
-      # - title: facebook
-      #   link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
-      #   icon: anzhiyu-icon-facebook1
-      # - title: RSS
-      #   link: atom.xml
-      #   icon: anzhiyu-icon-rss
+       - title: email
+         link: 1553298581@qq.com
+         icon: anzhiyu-icon-envelope
+       - title: 微博
+         link: https://weibo.com/u/6603939154
+         icon: anzhiyu-icon-weibo
     right:
-      # - title: Github
-      #   link: https://github.com/anzhiyu-c
-      #   icon: anzhiyu-icon-github
-      # - title: Bilibili
-      #   link: https://space.bilibili.com/372204786
-      #   icon: anzhiyu-icon-bilibili
-      # - title: 抖音
-      #   link: https://v.douyin.com/DwCpMEy/
-      #   icon: anzhiyu-icon-tiktok
-      # - title: CC
-      #   link: /copyright
-      #   icon: anzhiyu-icon-copyright-line
+       - title: Github
+         link: https://github.com/anzhiyu-c
+         icon: anzhiyu-icon-github
+       - title: Bilibili
+         link: https://space.bilibili.com/406070670
+         icon: anzhiyu-icon-bilibili
+       - title: 抖音
+         link: https://www.douyin.com/user/MS4wLjABAAAAQ0JITvGB9VOSzNU05B2JAJiHuczuIB7WMKFMBmH8QUg
+         icon: anzhiyu-icon-tiktok
+       - title: CC
+         link: /copyright
+         icon: anzhiyu-icon-copyright-line
   list:
-    enable: false
+    enable: true
     randomFriends: 3
     project:
-      # - title: 服务
-      #   links:
-      #     - title: 51la统计
-      #       link: https://v6.51.la/
-      #     - title: 十年之约
-      #       link: https://www.foreverblog.cn/
-      #     - title: 开往
-      #       link: https://github.com/travellings-link/travellings
-      # - title: 主题
-      #   links:
-      #     - title: 文档
-      #       link: /docs/
-      #     - title: 源码
-      #       link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-      #     - title: 更新日志
-      #       link: /update/
-      # - title: 导航
-      #   links:
-      #     - title: 即刻短文
-      #       link: /essay/
-      #     - title: 友链文章
-      #       link: /fcircle/
-      #     - title: 留言板
-      #       link: /comments/
-      # - title: 协议
-      #   links:
-      #     - title: 隐私协议
-      #       link: /privacy/
-      #     - title: Cookies
-      #       link: /cookies/
-      #     - title: 版权协议
-      #       link: /copyright/
+       - title: 服务
+         links:
+           - title: 51la统计
+             link: https://v6.51.la/
+       - title: 导航
+         links:
+           - title: 即刻短文
+             link: /essay/
+           - title: 留言板
+             link: /comments/
+       - title: 协议
+         links:
+           - title: 隐私协议
+             link: /privacy/
+           - title: Cookies
+             link: /cookies/
+           - title: 版权协议
+             link: /copyright/
   footerBar:
     enable: true
     authorLink: /
     cc:
-      enable: false
+      enable: true
       link: /copyright
     linkList:
       enable: false
@@ -805,7 +786,7 @@ aside:
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
-    enable: false
+    enable: true
     limit: 8 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
@@ -1063,11 +1044,11 @@ home_top:
 
 # 朋友圈配置
 friends_vue:
-  enable: true
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.2/friends/index.f9a2b8d2.js
-  apiurl: https://friends.anheyu.com/# 朋友圈后端地址
+  enable: false
+  vue_js: https://qimo.sanwent.icu/blog-resources%2Fjs%2Findex.f9a2b8d2.js
+  apiurl: https://friends.sanwent.icu/
   top_tips: 使用 友链朋友圈 订阅友链最新文章
-  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  top_background: https://qimo.sanwent.icu/blog%2Fessay%2Fgirlfriend.jpg
 
 # 深色模式粒子效果canvas
 universe:
@@ -1101,7 +1082,7 @@ comment_barrage_config:
   # 弹幕显示间隔时间ms
   barrageTime: 4000
   # token，在控制台中获取
-  accessToken: ""
+  accessToken: "0b843abc919b4d71964d87ac893b50aa"
   # 博主邮箱md5值
   mailMd5: ""
 
